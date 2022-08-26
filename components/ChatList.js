@@ -30,7 +30,7 @@ const ChatList = () => {
     style={tw("h-full")}
     data={matches} 
     keyExtractor={(item) => item.id} 
-    renderItem={({item})=> <ChatRow matchedetails={item} />}
+    renderItem={({item})=> <ChatRow matchDetails={item} />}
     />
   ) : (
     <View style={tw("p-5")}>

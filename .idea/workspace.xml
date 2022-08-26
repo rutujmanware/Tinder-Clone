@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae920ccf-6cee-4a18-80b3-1808f32f853d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/Screens/HomeScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stacknavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/Stacknavigator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ChatList.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ChatList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ChatRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ChatRow.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Uber_Clone" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,5 +38,16 @@
       <updated>1639236938974</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="45" y="105" width="1060" height="432" key="AVDManager" timestamp="1661532054835">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="110" y="120" width="1060" height="432" key="AVDManager/0.0.1280.672/1920.0.1600.852@0.0.1280.672" timestamp="1657273334970" />
+    <state x="45" y="105" width="1060" height="432" key="AVDManager/0.0.1280.672@0.0.1280.672" timestamp="1661532054835" />
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1657193306440">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672/1920.0.1600.852@0.0.1280.672" timestamp="1657193306440" />
   </component>
 </project>
