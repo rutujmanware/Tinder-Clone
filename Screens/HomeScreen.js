@@ -89,7 +89,7 @@ const HomeScreen = () => {
     if (!profiles[cardIndex]) return;
     const userSwiped = profiles[cardIndex];
 
-    const loggedInProfile = await (
+    const loggedInProfile =  (
       await getDoc(doc(db, "users", user.uid))
     ).data();
 
